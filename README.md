@@ -1,3 +1,3 @@
-# Demo
+# Lifx-Eval
 
-HelloWorld
+WorldList
